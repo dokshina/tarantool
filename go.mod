@@ -1,4 +1,4 @@
-module github.com/FZambia/tarantool
+module github.com/dokshina/tarantool
 
 go 1.15
 

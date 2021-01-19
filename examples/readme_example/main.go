@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/FZambia/tarantool"
+	"github.com/dokshina/tarantool"
 )
 
 type Row struct {

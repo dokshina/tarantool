@@ -1,5 +1,5 @@
-[![Build Status](https://github.com/FZambia/tarantool/workflows/build/badge.svg?branch=master)](https://github.com/FZambia/tarantool/actions)
-[![GoDoc](https://pkg.go.dev/badge/FZambia/tarantool)](https://pkg.go.dev/github.com/FZambia/tarantool)
+[![Build Status](https://github.com/dokshina/tarantool/workflows/build/badge.svg?branch=master)](https://github.com/dokshina/tarantool/actions)
+[![GoDoc](https://pkg.go.dev/badge/FZambia/tarantool)](https://pkg.go.dev/github.com/dokshina/tarantool)
 
 # Tarantool client in Go language
 
@@ -28,7 +28,7 @@ The networking core of `github.com/tarantool/go-tarantool` kept mostly unchanged
 ## Installation
 
 ```
-$ go get github.com/FZambia/tarantool
+$ go get github.com/dokshina/tarantool
 ```
 
 ## Status
@@ -65,7 +65,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/FZambia/tarantool"
+	"github.com/dokshina/tarantool"
 )
 
 type Row struct {
